@@ -1,0 +1,11 @@
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\StormTest.exe
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\StormTest.dll
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\StormTest.deps.json
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\StormTest.runtimeconfig.json
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\StormTest.pdb
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\CodingPractice\StormTest\StormTest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
