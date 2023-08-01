@@ -18,7 +18,7 @@ namespace StormTest.Controller
         public async Task<IActionResult> getName(int studentId)
         {
             studentId = 2;
-            //StudentDetailService studentDetailService = new StudentDetailService();
+            //StudentDetailService studentDetailService = new StudentDetailService();asdasdasdas
             var studentdetails = _studentDet.getName(studentId);
             return Ok(studentdetails);
         }
