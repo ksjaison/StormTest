@@ -3,6 +3,5 @@
     public interface IStudentDet
     {
         string getName(int studentId);
-        string StudentNameId { get; }
     }
 }
